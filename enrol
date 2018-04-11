@@ -1,0 +1,11 @@
+<header class="c-odd">
+  <h1>Learn with Us.</h1>
+  <p class="subhead">Your personalised tutor is just moments away</p>
+</header>
+<section class="c-even">
+  <img class="o-section-div" src="https://heronz.org/wp-content/uploads/2018/02/heron_flight.jpg" alt="Heron in Flight">
+  <div id="form">
+    [caldera_form id="CF5a4a0345820f9"]
+  </div>
+</section>
+  <img class="o-section-div" src="https://heronz.org/wp-content/uploads/2018/02/auckland_skyline-gainsboro.jpg" alt="Auckland City Skyline">
